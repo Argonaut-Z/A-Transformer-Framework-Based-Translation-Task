@@ -1,0 +1,5 @@
+torch==2.2.0
+torchtext==0.17.0
+numpy==1.26.4
+de_core_news_sm-3.0.0.tar.gz
+en_core_web_sm-3.0.0.tar.gz
