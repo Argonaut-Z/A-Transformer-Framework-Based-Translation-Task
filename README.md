@@ -2724,8 +2724,6 @@ python train.py
 [2024-12-24 18:48:06] - INFO: Accuracy on validation0.560
 ```
 
-训练10个epoch之后，在测试集上可以达到在最大准确率为`0.874`。
-
 ### 5.4 预测（inference）
 
 直接运行如下命令即可：
